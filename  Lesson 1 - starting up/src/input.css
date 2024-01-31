@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* to define our own class to use for the background color*/
+
+.radial-blue {
+    background: radial-gradient(rgb(50, 227, 27),rgb(16, 30, 110) );
+}
